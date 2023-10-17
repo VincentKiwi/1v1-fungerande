@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZteF9YLPogBh8w/hjEEN6ww2O1ixVfhIvx2y5dYn8EhMmLgbUN7rU6RKkifCsTZpo8qddBO1+ltCgw1AJQzVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vincent.kiwanuka\\programering\\1v1 fungerande\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vincent.kiwanuka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\vincent.kiwanuka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\vincent.kiwanuka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\vincent.kiwanuka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
